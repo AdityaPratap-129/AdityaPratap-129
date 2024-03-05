@@ -33,7 +33,6 @@
     <img width="60px" src="./git-icon.svg"/>
    <img width="60px" src="./c.svg"/>
  <img width="60px" src="./cpp.svg"/>
- <img width="80px" src="./java.svg"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
  </p>
 </p>
